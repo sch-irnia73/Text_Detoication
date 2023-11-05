@@ -1,0 +1,1 @@
+Here should be pretrained embeddings, but it takes too mach memory and can not be upload in GitHub.

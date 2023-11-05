@@ -1,0 +1,6 @@
+References:
+
+[1] Samhita Alla (2020).‍ Implementing Seq2Seq Models for Text Summarization With Keras. Paperspace Blog.
+https://blog.paperspace.com/implement-seq2seq-for-text-summarization-keras/
+[2] Het Pandya (2021). Training T5 for paraphrase generation. Towards Data Science article.
+https://towardsdatascience.com/training-t5-for-paraphrase-generation-ab3b5be151a2
